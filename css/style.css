@@ -1,0 +1,46 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, button, input, select, textarea {
+    font-family: sans-serif;
+}
+html {
+    background: #fff;
+    color: #000;
+    font-size: 14px;
+}
+
+
+body {
+    color: #bfc1c8;
+    font-family: "Roboto", "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5;
+    background: #1e202b;
+}
+
+.app-container{
+    background-image: url("../images/banner.png");
+    /* background-color: #1E202B; */
+}
+
+.text-light-blue{
+    color: rgb(8, 8, 163);
+}
+
+.bg-main-color{
+    background-color: #262936;
+}
+
+.bg-sec-color{
+    background-color: #323544;
+}
+
+.item {
+    background-size: cover;
+    padding: 70px 0;
+    min-height: 350px;
+}
